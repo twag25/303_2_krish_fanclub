@@ -12,7 +12,4 @@ To improve the model, we used the strongest predictors and performed transformat
 Ultimately, our research aimed to provide the Nashville Predators with valuable insights into their odds for reaching the playoffs and what they needed to do to qualify. By developing a data-driven approach to team performance, we hope to contribute to the ongoing efforts to improve the team's success on the ice.
 
 Project Members:
-1. Sam Sword
-2. Elijah Nacar
-3. Jack  McNally
-4. Tess Wagner
+Sam Sword, Elijah Nacar, Jack  McNally, Tess Wagner
